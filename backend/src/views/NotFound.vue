@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
     <div class="flex justify-center items-center min-h-full w-full min-w-full">
       <div class="flex">
         <div class="text-indigo-600 self-start text-5xl px-8 font-bold border-r pb-8 leading-10">404</div>
@@ -22,4 +22,4 @@
   
   <style scoped>
   
-  </style> -->
+  </style>
